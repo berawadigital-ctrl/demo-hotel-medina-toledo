@@ -1,0 +1,701 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-medina-toledo",
+ "source_site": "https://www.hotelmedina.com/",
+ "source_read_at": "2026-10-29T05:14:00+01:00",
+ "note": "Respuestas solo con datos publicados en hotelmedina.com. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "cuantas habitaciones",
+     "que habitaciones",
+     "tipos de habitacion",
+     "individual",
+     "doble",
+     "cama de matrimonio",
+     "estrellas"
+    ],
+    "ca": [
+     "quantes habitacions",
+     "quines habitacions",
+     "tipus d habitacio",
+     "individual",
+     "doble",
+     "llit de matrimoni",
+     "estrelles"
+    ],
+    "en": [
+     "how many rooms",
+     "what rooms",
+     "room types",
+     "single room",
+     "double",
+     "double bed",
+     "stars"
+    ],
+    "fr": [
+     "combien de chambres",
+     "quelles chambres",
+     "types de chambre",
+     "chambre simple",
+     "double",
+     "lit double",
+     "etoiles"
+    ]
+   },
+   "a": {
+    "es": "Es un hotel de tres estrellas. Según su web, tiene habitaciones individuales (12 m²), dobles de dos camas (14 m²), dobles de cama de matrimonio (14 m², camas de 135 o 150 cm) y dobles básicas sin vistas (12 m²).",
+    "ca": "És un hotel de tres estrelles. Segons la seva web, té habitacions individuals (12 m²), dobles de dos llits (14 m²), dobles de llit de matrimoni (14 m², llits de 135 o 150 cm) i dobles bàsiques sense vistes (12 m²).",
+    "en": "It is a three-star hotel. According to its website, it has single rooms (12 m²), double rooms with two beds (14 m²), double rooms with a double bed (14 m², beds of 135 or 150 cm) and basic double rooms without views (12 m²).",
+    "fr": "C'est un hôtel trois étoiles. Selon son site, il propose des chambres simples (12 m²), doubles à deux lits (14 m²), doubles à lit double (14 m², lits de 135 ou 150 cm) et doubles basiques sans vue (12 m²)."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmedina.com/",
+     "quote": "un hotel de tres estrellas que combina comodidad y estilo"
+    },
+    {
+     "url": "https://www.hotelmedina.com/habitaciones/",
+     "quote": "Habitaciones luminosas, con una moderna decoración, aire acondicionado y una superficie de 12m²."
+    },
+    {
+     "url": "https://www.hotelmedina.com/habitaciones/",
+     "quote": "Habitación con aire acondicionado y calefacción, con una superficie de 14 m²."
+    },
+    {
+     "url": "https://www.hotelmedina.com/habitaciones/",
+     "quote": "La habitación está equipada con camas de 135 ó 150 cms"
+    },
+    {
+     "url": "https://www.hotelmedina.com/habitaciones/",
+     "quote": "Habitación Doble Básica sin vistas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "equipamiento",
+     "secador",
+     "aire acondicionado",
+     "calefaccion",
+     "television",
+     " tv ",
+     "balcon"
+    ],
+    "ca": [
+     "equipament",
+     "assecador",
+     "aire condicionat",
+     "calefaccio",
+     "televisio",
+     " tv ",
+     "balco"
+    ],
+    "en": [
+     "equipment",
+     "hairdryer",
+     "hair dryer",
+     "air conditioning",
+     "heating",
+     "television",
+     " tv ",
+     "balcony"
+    ],
+    "fr": [
+     "equipement",
+     "seche cheveux",
+     "climatisation",
+     "chauffage",
+     "television",
+     " tv ",
+     "balcon"
+    ]
+   },
+   "a": {
+    "es": "Las habitaciones tienen aire acondicionado y calefacción, wifi gratuito, TV de pantalla plana y baño privado con secador de pelo; algunas tienen balcón.",
+    "ca": "Les habitacions tenen aire condicionat i calefacció, wifi gratuït, TV de pantalla plana i bany privat amb assecador de cabells; algunes tenen balcó.",
+    "en": "The rooms have air conditioning and heating, free wifi, a flat-screen TV and a private bathroom with a hairdryer; some have a balcony.",
+    "fr": "Les chambres disposent de la climatisation et du chauffage, du wifi gratuit, d'une TV à écran plat et d'une salle de bain privée avec sèche-cheveux ; certaines ont un balcon."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmedina.com/habitaciones/",
+     "quote": "Habitación con aire acondicionado y calefacción"
+    },
+    {
+     "url": "https://www.hotelmedina.com/habitaciones/",
+     "quote": "conexión Wi-Fi gratuita y TV pantalla plana. Algunas con balcón. Baño privado con secador de pelo."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "terraza",
+   "keys": {
+    "es": [
+     "terraza",
+     "vistas",
+     "panoramic"
+    ],
+    "ca": [
+     "terrassa",
+     "vistes",
+     "panoram"
+    ],
+    "en": [
+     "terrace",
+     "views",
+     "panoramic"
+    ],
+    "fr": [
+     "terrasse",
+     "vue",
+     "panoram"
+    ]
+   },
+   "a": {
+    "es": "Sí: tiene una terraza acogedora, ideal para relajarse y disfrutar de vistas panorámicas del casco histórico.",
+    "ca": "Sí: té una terrassa acollidora, ideal per relaxar-se i gaudir de vistes panoràmiques del casc històric.",
+    "en": "Yes: it has a cozy terrace, ideal for relaxing and enjoying panoramic views of the historic centre.",
+    "fr": "Oui : il dispose d'une terrasse accueillante, idéale pour se détendre et profiter de vues panoramiques sur le centre historique."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmedina.com/servicios/",
+     "quote": "cuenta con una terraza acogedora, ideal para relajarse y disfrutar de vistas panorámicas del casco histórico"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "servicios y wifi",
+   "keys": {
+    "es": [
+     "wifi",
+     "wi fi",
+     "internet",
+     "servicios",
+     "recepcion",
+     "caja fuerte",
+     "equipaje",
+     "limpieza",
+     "insonoriz"
+    ],
+    "ca": [
+     "wifi",
+     "wi fi",
+     "internet",
+     "serveis",
+     "recepcio",
+     "caixa forta",
+     "equipatge",
+     "neteja",
+     "insonoritz"
+    ],
+    "en": [
+     "wifi",
+     "wi fi",
+     "internet",
+     "services",
+     "reception",
+     "safe",
+     "luggage",
+     "cleaning",
+     "soundproof"
+    ],
+    "fr": [
+     "wifi",
+     "wi fi",
+     "internet",
+     "services",
+     "reception",
+     "coffre",
+     "bagages",
+     "menage",
+     "insonoris"
+    ]
+   },
+   "a": {
+    "es": "Hay wifi gratis, guardaequipaje, recepción 24 h, habitación insonorizada, caja fuerte y servicio de limpieza diario.",
+    "ca": "Hi ha wifi gratuït, guardaequipatges, recepció 24 h, habitació insonoritzada, caixa forta i servei de neteja diari.",
+    "en": "There is free wifi, luggage storage, 24-hour reception, a soundproofed room, a safe and a daily cleaning service.",
+    "fr": "Il y a le wifi gratuit, une consigne à bagages, une réception 24 h, une chambre insonorisée, un coffre-fort et un service de ménage quotidien."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmedina.com/servicios/",
+     "quote": "Wifi gratis Guardaequipaje Recepción 24 h. Habitación insonorizada Caja fuerte Servicio de limpieza diario Amenities"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "horarios",
+   "keys": {
+    "es": [
+     "check in",
+     "check out",
+     "hora de entrada",
+     "hora de salida"
+    ],
+    "ca": [
+     "check in",
+     "check out",
+     "hora d entrada",
+     "hora de sortida"
+    ],
+    "en": [
+     "check in",
+     "check out",
+     "arrival time",
+     "departure time"
+    ],
+    "fr": [
+     "check in",
+     "check out",
+     "heure d arrivee",
+     "heure de depart"
+    ]
+   },
+   "a": {
+    "es": "Según su web, el check-in es a las 13.00 y el check-out a las 11.45; el early check-in es gratis según disponibilidad. Para otros horarios, consulta con el hotel.",
+    "ca": "Segons la seva web, el check-in és a les 13.00 i el check-out a les 11.45; l'early check-in és gratuït segons disponibilitat. Per a altres horaris, consulta amb l'hotel.",
+    "en": "According to its website, check-in is at 13.00 and check-out at 11.45; early check-in is free subject to availability. For other times, ask the hotel.",
+    "fr": "Selon son site, le check-in est à 13.00 et le check-out à 11.45 ; l'early check-in est gratuit selon disponibilité. Pour d'autres horaires, renseignez-vous auprès de l'hôtel."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmedina.com/servicios/",
+     "quote": "Check in: 13.00 Check out: 11.45 Early check-in: Gratis según disponibilidad."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "triples y niños",
+   "keys": {
+    "es": [
+     "triple",
+     "supletoria",
+     "ninos",
+     "bebe",
+     "cuna",
+     "familia"
+    ],
+    "ca": [
+     "triple",
+     "supletori",
+     "nens",
+     "bebe",
+     "bressol",
+     "familia"
+    ],
+    "en": [
+     "triple",
+     "extra bed",
+     "children",
+     "baby",
+     "cot",
+     "family"
+    ],
+    "fr": [
+     "triple",
+     "supplementaire",
+     "enfants",
+     "bebe",
+     "lit bebe",
+     "famille"
+    ]
+   },
+   "a": {
+    "es": "No hay habitaciones triples ni camas supletorias: su web lo atribuye al tamaño mínimo exigido por la Delegación de Turismo de Toledo. Las dobles admiten 2 personas y 1 bebé de 2 años como máximo.",
+    "ca": "No hi ha habitacions triples ni llits supletoris: la seva web ho atribueix a la mida mínima exigida per la Delegació de Turisme de Toledo. Les dobles admeten 2 persones i 1 nadó de 2 anys com a màxim.",
+    "en": "There are no triple rooms or extra beds: its website attributes this to the minimum size required by the Toledo Tourism Office. Double rooms admit 2 people and 1 baby of up to 2 years.",
+    "fr": "Il n'y a pas de chambres triples ni de lits supplémentaires : son site l'attribue à la taille minimale exigée par la Délégation du Tourisme de Tolède. Les doubles admettent 2 personnes et 1 bébé de 2 ans maximum."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmedina.com/habitaciones/",
+     "quote": "Hotel Medina no dispone de habitaciones triples."
+    },
+    {
+     "url": "https://www.hotelmedina.com/habitaciones/",
+     "quote": "habitaciones dobles de 1 o 2 camas(2 personas y 1 bebé de 2 años máximo)"
+    },
+    {
+     "url": "https://www.hotelmedina.com/",
+     "quote": "la Delegación de Turismo de Toledo no nos permite ofrfecer habitaciones triples o con camas supletorias."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparcamiento",
+     "aparcar",
+     "garaje",
+     "coche",
+     "vado"
+    ],
+    "ca": [
+     "parking",
+     "parquing",
+     "aparcament",
+     "aparcar",
+     "garatge",
+     "cotxe"
+    ],
+    "en": [
+     "parking",
+     "car park",
+     "garage"
+    ],
+    "fr": [
+     "parking",
+     "stationnement",
+     "garage",
+     "garer"
+    ]
+   },
+   "a": {
+    "es": "Su web no indica garaje propio. Describe aparcamientos cercanos: plazas ORA en el perímetro del hotel, el parking Miradero a 150 m y el parking Safont a 700 m, y menciona un vado para carga y descarga de maletas.",
+    "ca": "La seva web no indica garatge propi. Descriu aparcaments propers: places ORA al perímetre de l'hotel, el pàrquing Miradero a 150 m i el pàrquing Safont a 700 m, i esmenta un gual per a càrrega i descàrrega de maletes.",
+    "en": "Its website does not mention a private garage. It describes nearby parking: ORA spaces around the hotel, the Miradero car park 150 m away and the Safont car park 700 m away, and mentions a loading bay for luggage.",
+    "fr": "Son site ne mentionne pas de garage propre. Il décrit des parkings proches : places ORA autour de l'hôtel, le parking Miradero à 150 m et le parking Safont à 700 m, et mentionne une zone de chargement pour les bagages."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmedina.com/servicios/",
+     "quote": "100 plazas ORA en el perímetro del hotel"
+    },
+    {
+     "url": "https://www.hotelmedina.com/servicios/",
+     "quote": "550 plazas en parking Miradero, a 150m del hotel"
+    },
+    {
+     "url": "https://www.hotelmedina.com/servicios/",
+     "quote": "650 plazas ORA en parking Safont"
+    },
+    {
+     "url": "https://www.hotelmedina.com/servicios/",
+     "quote": "A 700 m del hotel, con acceso al mismo por escaleras mecánicas próximas"
+    },
+    {
+     "url": "https://www.hotelmedina.com/servicios/",
+     "quote": "El hotel dispone de un vado para carga y descarga de maletas."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "situacion",
+     "como llegar",
+     "mapa",
+     "escaleras mecanicas"
+    ],
+    "ca": [
+     " on ",
+     "adreca",
+     "ubicacio",
+     "situacio",
+     "com arribar",
+     "mapa",
+     "escales mecaniques"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "how to get",
+     "map",
+     "escalators"
+    ],
+    "fr": [
+     "ou est",
+     "adresse",
+     "situe",
+     "situation",
+     "comment arriver",
+     "plan",
+     "escaliers mecaniques"
+    ]
+   },
+   "a": {
+    "es": "Está en Bajada de los Desamparados, 2, 45003 Toledo, en el casco histórico, a 150 metros de la Plaza de Zocodover, a media hora de Madrid en AVE y junto a las escaleras mecánicas de acceso al casco histórico.",
+    "ca": "És a Bajada de los Desamparados, 2, 45003 Toledo, al casc històric, a 150 metres de la Plaça de Zocodover, a mitja hora de Madrid en AVE i al costat de les escales mecàniques d'accés al casc històric.",
+    "en": "It is at Bajada de los Desamparados, 2, 45003 Toledo, in the historic centre, 150 metres from Plaza de Zocodover, half an hour from Madrid by AVE and next to the escalators up to the historic centre.",
+    "fr": "Il se trouve Bajada de los Desamparados, 2, 45003 Tolède, dans le centre historique, à 150 mètres de la Plaza de Zocodover, à une demi-heure de Madrid en AVE et à côté des escaliers mécaniques menant au centre historique."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmedina.com/aviso-legal/",
+     "quote": "con domicilio en: Bajada de los Desamparados, 2, 45003 Toledo."
+    },
+    {
+     "url": "https://www.hotelmedina.com/",
+     "quote": "Ubicado en el corazón del casco histórico de Toledo, a solo media hora de Madrid en AVE y a 150 metros de la Plaza de Zocodover"
+    },
+    {
+     "url": "https://www.hotelmedina.com/situacion/",
+     "quote": "junto a las escaleras mecánicas de acceso al casco histórico"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "entorno",
+   "keys": {
+    "es": [
+     "zocodover",
+     "catedral",
+     "alcazar",
+     "monumentos",
+     "que ver",
+     "cerca",
+     "sinagoga",
+     "greco"
+    ],
+    "ca": [
+     "zocodover",
+     "catedral",
+     "alcazar",
+     "monuments",
+     "que veure",
+     "a prop",
+     "sinagoga",
+     "greco"
+    ],
+    "en": [
+     "zocodover",
+     "cathedral",
+     "alcazar",
+     "monuments",
+     "what to see",
+     "near",
+     "nearby",
+     "synagogue",
+     "greco"
+    ],
+    "fr": [
+     "zocodover",
+     "cathedrale",
+     "alcazar",
+     "monuments",
+     "a voir",
+     "pres de",
+     "proche",
+     "synagogue",
+     "greco"
+    ]
+   },
+   "a": {
+    "es": "Su web indica estas distancias a pie: Plaza de Zocodover, 3 minutos; Catedral, 10; Alcázar, 6; Sinagoga del Tránsito y Museo de El Greco, 12 minutos cada uno.",
+    "ca": "La seva web indica aquestes distàncies a peu: Plaça de Zocodover, 3 minuts; Catedral, 10; Alcázar, 6; Sinagoga del Tránsito i Museu del Greco, 12 minuts cadascun.",
+    "en": "Its website gives these walking times: Plaza de Zocodover, 3 minutes; Cathedral, 10; Alcázar, 6; Sinagoga del Tránsito and El Greco Museum, 12 minutes each.",
+    "fr": "Son site indique ces temps à pied : Plaza de Zocodover, 3 minutes ; Cathédrale, 10 ; Alcázar, 6 ; Sinagoga del Tránsito et Musée du Greco, 12 minutes chacun."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmedina.com/situacion/",
+     "quote": "3 minutos a pie Catedral de Toledo"
+    },
+    {
+     "url": "https://www.hotelmedina.com/situacion/",
+     "quote": "10 minutos a pie Alcázar de Toledo"
+    },
+    {
+     "url": "https://www.hotelmedina.com/situacion/",
+     "quote": "6 minutos a pie Puy du Fou Toledo"
+    },
+    {
+     "url": "https://www.hotelmedina.com/situacion/",
+     "quote": "Sinagoga del Tránsito y Museo Sefardí 12 minutos a pie"
+    },
+    {
+     "url": "https://www.hotelmedina.com/situacion/",
+     "quote": "Museo de El Greco 12 minutos a pie"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirmame",
+     "mejor precio",
+     "oferta",
+     "gastos de gestion"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "lliure",
+     "confirma m",
+     "millor preu",
+     "oferta",
+     "despeses de gestio"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "free room",
+     "confirm",
+     "best price",
+     "offer"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirmez",
+     "meilleur prix",
+     "offre",
+     "frais de gestion"
+    ]
+   },
+   "a": {
+    "es": "Su web indica «mejor precio garantizado» y «sin gastos de gestión»; para reservar, contacta con el hotel por teléfono +34 925 69 99 99 o correo correo@hotelmedina.com. Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "La seva web indica «millor preu garantit» i «sense despeses de gestió»; per reservar, contacta amb l'hotel per telèfon +34 925 69 99 99 o correu correo@hotelmedina.com. Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "Its website says «best price guaranteed» and «no management fees»; to book, contact the hotel by phone +34 925 69 99 99 or email correo@hotelmedina.com. This assistant does not confirm availability or bookings.",
+    "fr": "Son site indique «meilleur prix garanti» et «sans frais de gestion» ; pour réserver, contactez l'hôtel par téléphone +34 925 69 99 99 ou e-mail correo@hotelmedina.com. Cet assistant ne confirme ni disponibilité ni réservation."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmedina.com/",
+     "quote": "Mejor precio garantizado Sin gastos de gestión Ofertas exclusivas"
+    },
+    {
+     "url": "https://www.hotelmedina.com/ofertas/",
+     "quote": "+34 925 69 99 99 correo@hotelmedina.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K11",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "llamar",
+     "correo",
+     "email",
+     "contacto",
+     "contactar"
+    ],
+    "ca": [
+     "telefon",
+     "trucar",
+     "correu",
+     "email",
+     "contacte",
+     "contactar"
+    ],
+    "en": [
+     "phone",
+     "call",
+     "email",
+     "contact"
+    ],
+    "fr": [
+     "telephone",
+     "appeler",
+     "email",
+     "contact"
+    ]
+   },
+   "a": {
+    "es": "Teléfono +34 925 69 99 99; correo correo@hotelmedina.com.",
+    "ca": "Telèfon +34 925 69 99 99; correu correo@hotelmedina.com.",
+    "en": "Phone +34 925 69 99 99; email correo@hotelmedina.com.",
+    "fr": "Téléphone +34 925 69 99 99 ; e-mail correo@hotelmedina.com."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmedina.com/ofertas/",
+     "quote": "+34 925 69 99 99 correo@hotelmedina.com"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K12",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "cif",
+     "nif"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "cif",
+     "nif"
+    ],
+    "en": [
+     "owner",
+     "legal name",
+     "cif",
+     "nif"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "raison sociale",
+     "cif",
+     "nif"
+    ]
+   },
+   "a": {
+    "es": "Su aviso legal indica que la web pertenece a la Sociedad de Autogestión de Hoteles Rurales, S.L., NIF B21493747, con domicilio en Bajada de los Desamparados, 2, 45003 Toledo.",
+    "ca": "El seu avís legal indica que la web pertany a la Sociedad de Autogestión de Hoteles Rurales, S.L., NIF B21493747, amb domicili a Bajada de los Desamparados, 2, 45003 Toledo.",
+    "en": "Its legal notice says the website belongs to Sociedad de Autogestión de Hoteles Rurales, S.L., NIF B21493747, based at Bajada de los Desamparados, 2, 45003 Toledo.",
+    "fr": "Sa mention légale indique que le site appartient à la Sociedad de Autogestión de Hoteles Rurales, S.L., NIF B21493747, domiciliée Bajada de los Desamparados, 2, 45003 Tolède."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmedina.com/aviso-legal/",
+     "quote": "pertenece a la sociedad de Autogestión de Hoteles Rurales, S.L., con domicilio en: Bajada de los Desamparados, 2, 45003 Toledo."
+    },
+    {
+     "url": "https://www.hotelmedina.com/aviso-legal/",
+     "quote": "NIF: B21493747"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
