@@ -1,0 +1,446 @@
+{
+ "url": "file:///tmp/clon-hotel-medina-toledo/repo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es un hotel de tres estrellas. Según su web, tiene habitaciones individuales (12 m²), dobles de dos camas (14 m²), dobles de cama de matrimo"
+    },
+    {
+     "q": "¿Qué equipamiento tienen?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Las habitaciones tienen aire acondicionado y calefacción, wifi gratuito, TV de pantalla plana y baño privado con secador de pelo; algunas ti"
+    },
+    {
+     "q": "¿Hay terraza?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí: tiene una terraza acogedora, ideal para relajarse y disfrutar de vistas panorámicas del casco histórico."
+    },
+    {
+     "q": "¿Hay wifi y recepción 24 horas?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Hay wifi gratis, guardaequipaje, recepción 24 h, habitación insonorizada, caja fuerte y servicio de limpieza diario."
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Según su web, el check-in es a las 13.00 y el check-out a las 11.45; el early check-in es gratis según disponibilidad. Para otros horarios, "
+    },
+    {
+     "q": "¿Hay habitaciones triples?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "No hay habitaciones triples ni camas supletorias: su web lo atribuye al tamaño mínimo exigido por la Delegación de Turismo de Toledo. Las do"
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Su web no indica garaje propio. Describe aparcamientos cercanos: plazas ORA en el perímetro del hotel, el parking Miradero a 150 m y el park"
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Está en Bajada de los Desamparados, 2, 45003 Toledo, en el casco histórico, a 150 metros de la Plaza de Zocodover, a media hora de Madrid en"
+    },
+    {
+     "q": "¿Qué hay cerca del hotel?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Su web indica estas distancias a pie: Plaza de Zocodover, 3 minutos; Catedral, 10; Alcázar, 6; Sinagoga del Tránsito y Museo de El Greco, 12"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Su web indica «mejor precio garantizado» y «sin gastos de gestión»; para reservar, contacta con el hotel por teléfono +34 925 69 99 99 o cor"
+    },
+    {
+     "q": "¿Cuál es el teléfono?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Teléfono +34 925 69 99 99; correo correo@hotelmedina.com."
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Su aviso legal indica que la web pertenece a la Sociedad de Autogestión de Hoteles Rurales, S.L., NIF B21493747, con domicilio en Bajada de "
+    },
+    {
+     "q": "¿Es accesible para silla de ruedas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 925 69 99 99 · correo@hotelmedina.com."
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 925 69 99 99 · correo@hotelmedina.com."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 925 69 99 99 · correo@hotelmedina.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Su web indica «mejor precio garantizado» y «sin gastos de gestión»; para reservar, contacta con el hotel por teléfono +34 925 69 99 99 o cor"
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tiene?",
+    "¿Hay terraza?",
+    "¿Hay parking?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "intro_k",
+    "send",
+    "room0_n",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quines habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "És un hotel de tres estrelles. Segons la seva web, té habitacions individuals (12 m²), dobles de dos llits (14 m²), dobles de llit de matrim"
+    },
+    {
+     "q": "Quin equipament tenen?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les habitacions tenen aire condicionat i calefacció, wifi gratuït, TV de pantalla plana i bany privat amb assecador de cabells; algunes tene"
+    },
+    {
+     "q": "Hi ha terrassa?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí: té una terrassa acollidora, ideal per relaxar-se i gaudir de vistes panoràmiques del casc històric."
+    },
+    {
+     "q": "Hi ha wifi i recepció 24 hores?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Hi ha wifi gratuït, guardaequipatges, recepció 24 h, habitació insonoritzada, caixa forta i servei de neteja diari."
+    },
+    {
+     "q": "A quina hora és el check-in?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Segons la seva web, el check-in és a les 13.00 i el check-out a les 11.45; l'early check-in és gratuït segons disponibilitat. Per a altres h"
+    },
+    {
+     "q": "Hi ha habitacions triples?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "No hi ha habitacions triples ni llits supletoris: la seva web ho atribueix a la mida mínima exigida per la Delegació de Turisme de Toledo. L"
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "La seva web no indica garatge propi. Descriu aparcaments propers: places ORA al perímetre de l'hotel, el pàrquing Miradero a 150 m i el pàrq"
+    },
+    {
+     "q": "On és l'hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "És a Bajada de los Desamparados, 2, 45003 Toledo, al casc històric, a 150 metres de la Plaça de Zocodover, a mitja hora de Madrid en AVE i a"
+    },
+    {
+     "q": "Què hi ha a prop de l'hotel?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "La seva web indica aquestes distàncies a peu: Plaça de Zocodover, 3 minuts; Catedral, 10; Alcázar, 6; Sinagoga del Tránsito i Museu del Grec"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "La seva web indica «millor preu garantit» i «sense despeses de gestió»; per reservar, contacta amb l'hotel per telèfon +34 925 69 99 99 o co"
+    },
+    {
+     "q": "Quin és el telèfon?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Telèfon +34 925 69 99 99; correu correo@hotelmedina.com."
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "El seu avís legal indica que la web pertany a la Sociedad de Autogestión de Hoteles Rurales, S.L., NIF B21493747, amb domicili a Bajada de l"
+    },
+    {
+     "q": "És accessible amb cadira de rodes?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 925 69 99 99 · correo@hotelmedina.com."
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 925 69 99 99 · correo@hotelmedina.com."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 925 69 99 99 · correo@hotelmedina.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "La seva web indica «millor preu garantit» i «sense despeses de gestió»; per reservar, contacta amb l'hotel per telèfon +34 925 69 99 99 o co"
+    }
+   ],
+   "chips": [
+    "Quines habitacions té?",
+    "Hi ha terrassa?",
+    "Hi ha pàrquing?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "What rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It is a three-star hotel. According to its website, it has single rooms (12 m²), double rooms with two beds (14 m²), double rooms with a dou"
+    },
+    {
+     "q": "What equipment do the rooms have?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The rooms have air conditioning and heating, free wifi, a flat-screen TV and a private bathroom with a hairdryer; some have a balcony."
+    },
+    {
+     "q": "Is there a terrace?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes: it has a cozy terrace, ideal for relaxing and enjoying panoramic views of the historic centre."
+    },
+    {
+     "q": "Is there wifi and 24-hour reception?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "There is free wifi, luggage storage, 24-hour reception, a soundproofed room, a safe and a daily cleaning service."
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "According to its website, check-in is at 13.00 and check-out at 11.45; early check-in is free subject to availability. For other times, ask "
+    },
+    {
+     "q": "Are there triple rooms?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "There are no triple rooms or extra beds: its website attributes this to the minimum size required by the Toledo Tourism Office. Double rooms"
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Its website does not mention a private garage. It describes nearby parking: ORA spaces around the hotel, the Miradero car park 150 m away an"
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "It is at Bajada de los Desamparados, 2, 45003 Toledo, in the historic centre, 150 metres from Plaza de Zocodover, half an hour from Madrid b"
+    },
+    {
+     "q": "What is near the hotel?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Its website gives these walking times: Plaza de Zocodover, 3 minutes; Cathedral, 10; Alcázar, 6; Sinagoga del Tránsito and El Greco Museum, "
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Its website says «best price guaranteed» and «no management fees»; to book, contact the hotel by phone +34 925 69 99 99 or email correo@hote"
+    },
+    {
+     "q": "What is the phone number?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Phone +34 925 69 99 99; email correo@hotelmedina.com."
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Its legal notice says the website belongs to Sociedad de Autogestión de Hoteles Rurales, S.L., NIF B21493747, based at Bajada de los Desampa"
+    },
+    {
+     "q": "Is it wheelchair accessible?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 925 69 99 99 · correo@hotelmedina.com."
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 925 69 99 99 · correo@hotelmedina.com."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 925 69 99 99 · correo@hotelmedina.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Its website says «best price guaranteed» and «no management fees»; to book, contact the hotel by phone +34 925 69 99 99 or email correo@hote"
+    }
+   ],
+   "chips": [
+    "What rooms does it have?",
+    "Is there a terrace?",
+    "Is there parking?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres propose-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "C'est un hôtel trois étoiles. Selon son site, il propose des chambres simples (12 m²), doubles à deux lits (14 m²), doubles à lit double (14"
+    },
+    {
+     "q": "Quel équipement ont les chambres ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les chambres disposent de la climatisation et du chauffage, du wifi gratuit, d'une TV à écran plat et d'une salle de bain privée avec sèche-"
+    },
+    {
+     "q": "Y a-t-il une terrasse ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui : il dispose d'une terrasse accueillante, idéale pour se détendre et profiter de vues panoramiques sur le centre historique."
+    },
+    {
+     "q": "Y a-t-il du wifi et une réception 24 heures ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Il y a le wifi gratuit, une consigne à bagages, une réception 24 h, une chambre insonorisée, un coffre-fort et un service de ménage quotidie"
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Selon son site, le check-in est à 13.00 et le check-out à 11.45 ; l'early check-in est gratuit selon disponibilité. Pour d'autres horaires, "
+    },
+    {
+     "q": "Y a-t-il des chambres triples ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Il n'y a pas de chambres triples ni de lits supplémentaires : son site l'attribue à la taille minimale exigée par la Délégation du Tourisme "
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Son site ne mentionne pas de garage propre. Il décrit des parkings proches : places ORA autour de l'hôtel, le parking Miradero à 150 m et le"
+    },
+    {
+     "q": "Où est l'hôtel ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Il se trouve Bajada de los Desamparados, 2, 45003 Tolède, dans le centre historique, à 150 mètres de la Plaza de Zocodover, à une demi-heure"
+    },
+    {
+     "q": "Qu'y a-t-il près de l'hôtel ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Son site indique ces temps à pied : Plaza de Zocodover, 3 minutes ; Cathédrale, 10 ; Alcázar, 6 ; Sinagoga del Tránsito et Musée du Greco, 1"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Son site indique «meilleur prix garanti» et «sans frais de gestion» ; pour réserver, contactez l'hôtel par téléphone +34 925 69 99 99 ou e-m"
+    },
+    {
+     "q": "Quel est le téléphone ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Téléphone +34 925 69 99 99 ; e-mail correo@hotelmedina.com."
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sa mention légale indique que le site appartient à la Sociedad de Autogestión de Hoteles Rurales, S.L., NIF B21493747, domiciliée Bajada de "
+    },
+    {
+     "q": "Est-il accessible en fauteuil roulant ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 925 69 99 99 · correo@hotelmedina.com."
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 925 69 99 99 · correo@hotelmedina.com."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 925 69 99 99 · correo@hotelmedina.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Son site indique «meilleur prix garanti» et «sans frais de gestion» ; pour réserver, contactez l'hôtel par téléphone +34 925 69 99 99 ou e-m"
+    }
+   ],
+   "chips": [
+    "Quelles chambres propose-t-il ?",
+    "Y a-t-il une terrasse ?",
+    "Y a-t-il un parking ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

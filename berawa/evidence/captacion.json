@@ -1,0 +1,30 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "hotel-medina-toledo",
+ "maps": {
+  "fecha": "2026-10-29T05:07:04+01:00",
+  "estado": "LEIDA",
+  "ficha": "Hotel Medina",
+  "nota": 4.3,
+  "coincide": {
+   "tel": true,
+   "web": true
+  },
+  "url": "https://www.google.com/maps/place/Hotel+Medina/@39.8617051,-4.021741,17z/data=!4m9!3m8!1s0xd6a0baf99fe65fb:0xb74473a1d7ccfd63!5m2!4m1!1i2!8m2!3d39.8617051!4d-4.021741!16s%2Fg%2F1hcb5j3wt",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T05:07:04+01:00",
+  "veredicto": "DUDOSA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "SOCIEDAD DE AUTOGESTIÓN DE HOTELES RURALES, S.L.",
+  "cif": "B21493747",
+  "fuente": "https://www.hotelmedina.com/aviso-legal/",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "Aviso legal de la web: la web pertenece a Sociedad de Autogestión de Hoteles Rurales S.L. (persona jurídica); un solo hotel identificado; no cadena."
+ }
+}

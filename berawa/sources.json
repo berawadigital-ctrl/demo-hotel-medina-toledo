@@ -1,0 +1,46 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hotelmedina.com/",
+ "read_at": "2026-10-29T05:14:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hotelmedina.com/",
+   "sha256": "bb27eb776dc81564207df6c90db3a0500f27e01132c8d2d6476ce0b12d4cb02a",
+   "chars": 2919
+  },
+  {
+   "url": "https://www.hotelmedina.com/aviso-legal/",
+   "sha256": "0edc7e8697e98967874293614a31b92e8b3354a270751b308d6d25404fb7d87c",
+   "chars": 16324
+  },
+  {
+   "url": "https://www.hotelmedina.com/habitaciones/",
+   "sha256": "b707643e3d45092b35a5124c7594b00659f1f2740787a25cb7b04082b70c909e",
+   "chars": 3023
+  },
+  {
+   "url": "https://www.hotelmedina.com/ofertas/",
+   "sha256": "4edfb07a32ec0c45b9e6a1cc434c5010155a4e741c5dc8d5463bc563173c0877",
+   "chars": 788
+  },
+  {
+   "url": "https://www.hotelmedina.com/servicios/",
+   "sha256": "ab308d091bf5beab791cf273cea3f8a299cc031151cc338ade6de9f80418bef3",
+   "chars": 2233
+  },
+  {
+   "url": "https://www.hotelmedina.com/situacion/",
+   "sha256": "45ee8921fbc4ba191345957f2ddedb02b6f0ae4d2b33e9610af5b23080a1c221",
+   "chars": 3391
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hotelmedina.com",
+  "https://www.hotelmedina.com/en/",
+  "https://www.hotelmedina.com/ofertas/mejores-precios-garantizados-1587u0/",
+  "https://www.hotelmedina.com/ofertas/oferta-no-reembolsable-664la1/",
+  "https://www.hotelmedina.com/politica-cookies/",
+  "https://www.hotelmedina.com/politica-privacidad/"
+ ]
+}

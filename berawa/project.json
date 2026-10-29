@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-medina-toledo",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T05:16:00+01:00",
+ "updated_at": "2026-10-29T05:17:00+01:00",
+ "business": {
+  "name": "Hotel Medina",
+  "legal_name": "Sociedad de Autogestión de Hoteles Rurales, S.L.",
+  "registry_ids": [
+   "CIF B21493747"
+  ],
+  "url": "https://www.hotelmedina.com/",
+  "domain": "hotelmedina.com",
+  "municipality": "Toledo",
+  "province": "Toledo",
+  "address": "Bajada de los Desamparados 2 · 45003 Toledo",
+  "phones": [
+   "925 69 99 99"
+  ],
+  "emails": [
+   "correo@hotelmedina.com"
+  ],
+  "sector": "hotel de tres estrellas en el casco histórico"
+ },
+ "rating": {
+  "value": 4.3,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Hotel+Medina/@39.8617051,-4.021741,17z/data=!4m9!3m8!1s0xd6a0baf99fe65fb:0xb74473a1d7ccfd63!5m2!4m1!1i2!8m2!3d39.8617051!4d-4.021741!16s%2Fg%2F1hcb5j3wt",
+  "date": "2026-10-29T05:07:04+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "mail",
+  "email": "correo@hotelmedina.com",
+  "note": "La web del negocio tiene su propio motor de reservas (boton Reservar) cuyo enlace no se verifica; la demo usa solo contacto real (correo y telefono)."
+ },
+ "audit_original": {
+  "url": "https://www.hotelmedina.com/",
+  "date": "2026-10-29T05:16:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: hotel con precedente en demos de esta tanda",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
